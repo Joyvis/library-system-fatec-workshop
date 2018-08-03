@@ -1,24 +1,17 @@
-# README
+# WORKSHOP FATEC-PG COMO DESENVOLVER SUA PRIMEIRA API RESTFUL UTILIZANDO RUBY ON RAILS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Essa aplicação foi utilizada no workshop ministrado por mim (Joyvis Santana) como forma de explicação sobre como desenvolver uma API RestFul utilizando Ruby on Rails na FATEC (Faculdade de Tecnologia) localizada na cidade de Praia Grande
 
-Things you may want to cover:
+Nesse workshop aprendemos:
 
-* Ruby version
+* Instalar e configurar o ruby e seu framework rails;
 
-* System dependencies
+* Utilizar o rails em modo texto (console);
 
-* Configuration
+* O que é e como utilizar o design pattern MVC;
 
-* Database creation
+* Utilizar o desenvolvimento orientado a testes (TDD);
 
-* Database initialization
+* Receber e enviar requisições HTTP;
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Utilizar JSON como forma de comunicação;
